@@ -1,2 +1,2 @@
 # iot-basic-kit
-Freelab IoT Basic Kit
+Khurs Labs IoT Basic Kit
